@@ -10,3 +10,10 @@ setup timer
 ### Day 1:  April 10, 2018
 https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
 I've gone through the first 12
+
+### Day 2:  April 11, 2018
+I've gone through the first 31
+
+**Thoughts** got stuck at 17 what is a class entry for p element?
+
+hint, quick gSearch didn't help, but figured it out.
