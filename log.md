@@ -14,6 +14,13 @@ I've gone through the first 12
 ### Day 2:  April 11, 2018
 I've gone through the first 31
 
-**Thoughts** got stuck at 17 what is a class entry for p element?
+**Thoughts** 
 
-hint, quick gSearch didn't help, but figured it out.
+got stuck at 17 what is an entry for a p element?
+
+neither hint nor a quick gSearch help, but figured it out.
+
+### Day 2:  April 12, 2018
+I've gone thru 57 now
+
+Must pay closer instructions to attention!!
