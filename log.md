@@ -30,7 +30,9 @@ Kids STEAM fair and work till 2a  ...
 ### Day 4:  April 14, 2018
 **Thoughts** 
 Forge on - feels like forever that i've logged on!! 
+
 Now I understand why you shouldn't let 2 days go past!
 
 I've gone thru 79 now
-So ... just finished "Responsive Design with Bootstrap", GN! truly good!
+
+So ... just finished 91! "Responsive Design with Bootstrap", GN! truly good!
