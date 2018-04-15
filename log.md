@@ -36,3 +36,5 @@ Now I understand why you shouldn't let 2 days go past!
 I've gone thru 79 now
 
 So ... just finished 91! "Responsive Design with Bootstrap", GN! truly good!
+
+jQuery: 18
