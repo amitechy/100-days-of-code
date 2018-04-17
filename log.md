@@ -38,5 +38,5 @@ So ... just finished 91! "Responsive Design with Bootstrap", GN! truly good!
 ### Day 5:  April 15, 2018, Sunday
 **Thoughts** Spent time with wife
 ### Day 5:  April 16, 2018
-**Thoughts** 
+Got to "Build a tribute page"
 jQuery: 18
