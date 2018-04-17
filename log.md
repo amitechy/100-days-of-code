@@ -28,13 +28,15 @@ Must pay closer instructions to attention!!
 Kids STEAM fair and work till 2a  ...
 
 ### Day 4:  April 14, 2018
-**Thoughts** 
-Forge on - feels like forever that i've logged on!! 
+**Thoughts** Forge on - feels like forever that i've logged on!! 
 
 Now I understand why you shouldn't let 2 days go past!
 
 I've gone thru 79 now
 
 So ... just finished 91! "Responsive Design with Bootstrap", GN! truly good!
-
+### Day 5:  April 15, 2018, Sunday
+**Thoughts** Spent time with wife
+### Day 5:  April 16, 2018
+**Thoughts** 
 jQuery: 18
