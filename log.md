@@ -39,4 +39,14 @@ So ... just finished 91! "Responsive Design with Bootstrap", GN! truly good!
 **Thoughts** Spent time with wife
 ### Day 5:  April 16, 2018
 Got to "Build a tribute page"
-jQuery: 18
+### Day 6:  April 17, 2018
+Target:
+https://codepen.io/freeCodeCamp/full/NNvBQW
+
+https://en.wikipedia.org/wiki/User_story
+
+a user story is an informal description of a feature.
+
+https://codepen.io/amvar/pen/mLbyWG
+OR
+https://gist.github.com/amitechy/496fdcad562164055926aa960124b1bc
