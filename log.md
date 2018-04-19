@@ -53,5 +53,9 @@ https://gist.github.com/amitechy/496fdcad562164055926aa960124b1bc
 
 ### Day 7:  April 18, 2018
 Last night was waay too much fun, just one more image - even though it is a very basic page.
-
 And now if I inspect an element in a browser, a teeny more clarity has been gained. Need to balance need-wants.
+
+Spent some more time adding smart-**** comments
+https://www.htmlgoodies.com/tutorials/getting_started/article.php/ 
+
+Next up: Build a Personal Portfolio Webpage
